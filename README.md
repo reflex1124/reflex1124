@@ -13,7 +13,7 @@ I focus on real-time graphics, shader development, and technical art.
 My work ranges from experimental prototypes to production-level assets and tools.
 
 📍 Based in Japan  
-🏢 Affiliation: kumo.productions
+🏢 Affiliation: [**kumo.productions™**](https://kumo.productions/)
 
 ---
 
@@ -57,6 +57,7 @@ This GitHub contains:
 ## 🏢 Affiliation
 
 [**kumo.productions™**](https://kumo.productions/)
+
 A creative production studio focused on 3DCG, real-time visuals, and technical expression.  
 I contribute both as a **3D Artist** and a **Technical Artist**, working on asset creation,  
 shader development, and technical design for real-time and production workflows.
