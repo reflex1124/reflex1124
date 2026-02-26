@@ -3,9 +3,9 @@
 3DCG Artist / Real-time Graphics Engineer  
 Member of [**kumo.productions™**](https://kumo.productions/)
 
-[![Website](https://img.shields.io/badge/Website-reflexatelier.com-000000?logo=firefox&logoColor=white)](https://www.reflexatelier.com/)
+[![Website](https://img.shields.io/badge/Website-reflexatelier.com-FF6B35?logo=firefox&logoColor=white)](https://www.reflexatelier.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-reflex1124-181717?logo=github&logoColor=white)](https://github.com/reflex1124)
-[![X](https://img.shields.io/badge/X-@reflex__1124-000000?logo=x&logoColor=white)](https://twitter.com/reflex_1124)
+[![X](https://img.shields.io/badge/X-@reflex__1124-1D9BF0?logo=x&logoColor=white)](https://twitter.com/reflex_1124)
 
 ---
 
