@@ -13,7 +13,6 @@ I focus on real-time graphics, shader development, and technical art.
 My work ranges from experimental prototypes to production-level assets and tools.
 
 📍 Based in Japan  
-🏢 Affiliation: [**kumo.productions™**](https://kumo.productions/)
 
 ---
 
